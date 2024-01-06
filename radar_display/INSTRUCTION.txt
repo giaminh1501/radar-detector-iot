@@ -1,5 +1,0 @@
-You will need to download and install Processing to run the code.
-
-Make sure to connect the system with Arduino to the computer before run the code.
-
-You may need to refer to my diagram of how to build a radar using Arduino UNO.
